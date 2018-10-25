@@ -1,0 +1,7 @@
+c:\users\blorw\source\repos\Pay_Calculator\Pay_Calculator\obj\Debug\Pay_Calculator.csprojAssemblyReference.cache
+c:\users\blorw\source\repos\Pay_Calculator\Pay_Calculator\obj\Debug\Pay_Calculator.csproj.CoreCompileInputs.cache
+c:\users\blorw\source\repos\Pay_Calculator\Pay_Calculator\bin\Debug\Pay_Calculator.exe.config
+c:\users\blorw\source\repos\Pay_Calculator\Pay_Calculator\bin\Debug\Pay_Calculator.exe
+c:\users\blorw\source\repos\Pay_Calculator\Pay_Calculator\bin\Debug\Pay_Calculator.pdb
+c:\users\blorw\source\repos\Pay_Calculator\Pay_Calculator\obj\Debug\Pay_Calculator.exe
+c:\users\blorw\source\repos\Pay_Calculator\Pay_Calculator\obj\Debug\Pay_Calculator.pdb
